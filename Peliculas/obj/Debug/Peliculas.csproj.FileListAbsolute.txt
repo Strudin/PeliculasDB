@@ -1,0 +1,2 @@
+C:\Users\Rafael David\source\repos\Peliculas\Peliculas\obj\Debug\Peliculas.csprojResolveAssemblyReference.cache
+C:\Users\Rafael David\source\repos\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.CoreCompileInputs.cache
